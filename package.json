@@ -1,0 +1,22 @@
+{
+  "name": "arduino-gameconsole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaryarajoju/arduino-GameConsole.git"
+  },
+  "author": "AARYA RAJOJU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaryarajoju/arduino-GameConsole/issues"
+  },
+  "homepage": "https://github.com/aaryarajoju/arduino-GameConsole#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
